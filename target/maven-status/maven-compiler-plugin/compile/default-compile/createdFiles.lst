@@ -1,0 +1,10 @@
+org\microservice\order\config\WebSocketConfig.class
+org\microservice\order\config\SwaggerConfig.class
+org\microservice\order\config\TopicListenerConfig.class
+org\microservice\order\config\ArtemisConfig.class
+org\microservice\order\config\SecurityConfig.class
+org\microservice\order\OrderServiceApplication.class
+org\microservice\order\service\OrderPublisherService.class
+org\microservice\order\service\OrderStatusMessage.class
+org\microservice\order\controller\OrderController.class
+org\microservice\order\service\OrderConsumerService.class
